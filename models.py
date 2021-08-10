@@ -99,8 +99,13 @@ class Storage(db.Model):
     __tablename__ = 'storage'
     id = db.Column(db.Integer, primary_key=True)
     storage_type = db.Column(db.String, nullable=False)
+    quantity = db.Column(db.Integer, nullable=False)
     capacity = db.Column(db.Integer, nullable=False)
     district_id = db.Column(db.ForeignKey('district.id'), nullable=False)
     address = db.Column(db.String, nullable=False)
     organization_name = db.Column(db.String, nullable=False)
     owner_stir = db.Column(db.Integer, nullable=False)
+    latitude = db.Column(db.Float, nullable=True)
+    longitude = db.Column(db.Float, nullable=True)
+    date_of_registry = db.Column(db.DateTime, nullable=True)
+    created_workplaces = db.Column(db.Integer, nullable=True)

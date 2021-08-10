@@ -1,11 +1,17 @@
 #container {
     height: 500px; 
     min-width: 310px; 
-    width: 100%;
+    width: 50%;
     margin: 0 auto; 
 }
 .loading {
     margin-top: 10em;
     text-align: center;
     color: gray;
+}
+#container2 {
+    min-width: 50%;
+    max-width: 60%;
+    height: 600px;
+    margin: 0 auto;
 }
