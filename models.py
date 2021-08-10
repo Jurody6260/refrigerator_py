@@ -11,6 +11,8 @@ app.config['DEBUG'] = True
 login_manager = LoginManager(app)
 login_manager.login_view = 'login_page'
 
+
+
 class User(UserMixin, db.Model):
     __tablename__ = 'user'
     id = db.Column(db.Integer, primary_key=True)

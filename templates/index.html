@@ -1,8 +1,75 @@
 {% extends "base.html" %}
 
-
+<script src="/assets/js/highm.js"></script>
 {% block content %}
-
+<div id="container">
+    
+    
+</div>
 <h1> Hello World </h1>
 
+<link rel="stylesheet" href="/assets/css/somecss.css">
+<script>
+    
+
+document.addEventListener('DOMContentLoaded', function () {
+  var data = [
+    ['uz-fa', 0],
+    ['uz-tk', 1],
+    ['uz-an', 2],
+    ['uz-ng', 3],
+    ['uz-ji', 4],
+    ['uz-si', 5],
+    ['uz-ta', 6],
+    ['uz-bu', 7],
+    ['uz-kh', 8],
+    ['uz-qr', 9],
+    ['uz-nw', 10],
+    ['uz-sa', 11],
+    ['uz-qa', 12],
+    ['uz-su', 13]
+  ];
+  const chart = Highcharts.mapChart('container', {
+      chart: {
+          map: 'countries/uz/uz-all'
+      },
+  
+      title: {
+          text: 'Highmaps basic demo'
+      },
+  
+      subtitle: {
+          text: 'Source map: <a href="http://code.highcharts.com/mapdata/countries/uz/uz-all.js">Uzbekistan</a>'
+      },
+  
+      mapNavigation: {
+          enabled: true,
+          buttonOptions: {
+              verticalAlign: 'bottom',
+          }
+      },
+  
+      colorAxis: {
+          min: 0
+      },
+  
+      series: [{
+          data: data,
+          name: 'Refrigerators',
+          states: {
+              hover: {
+                  color: '#BADA55'
+              }
+          },
+          dataLabels: {
+              enabled: true,
+              format: '{point.name}'
+          }
+      }]
+  });
+  
+
+});
+
+</script>
 {% endblock %}
