@@ -15,3 +15,15 @@ def index():
 @app.route('/login')
 def login():
     return render_template('pages/login.html', page='login')
+
+@app.route('/reports')
+def reports():
+    return render_template('pages/reports.html')
+
+@app.route('/orders')
+def orders():
+    return render_template('pages/orders.html')
+
+@app.route('/help')
+def help():
+    return render_template('pages/help.html')
