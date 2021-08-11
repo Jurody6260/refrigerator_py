@@ -1,0 +1,1388 @@
+[
+    {
+        "district": "Оҳангарон шаҳар",
+        "org_name": "\"Орхидея Люкс\" МЧЖ",
+        "name": "Оҳангарон шаҳар саноат ҳудуди",
+        "quantity": 1.0,
+        "capacity": 500.0,
+        "created_workplaces": 2,
+        "type": "storage"
+    },
+    {
+        "district": "Оҳангарон шаҳар",
+        "org_name": "\"Оҳангарон Деҳқон бозори\" МЧЖ",
+        "name": "Оҳангарон шаҳар \"Хонобод\" МФЙ",
+        "quantity": 1.0,
+        "capacity": 150.0,
+        "created_workplaces": 1,
+        "type": "storage"
+    },
+    {
+        "district": "Оҳангарон шаҳар",
+        "org_name": "\"Оҳангарон дон\" АЖ",
+        "name": "Оҳангарон шаҳар саноат ҳудуди",
+        "quantity": 1.0,
+        "capacity": 1000.0,
+        "created_workplaces": 8,
+        "type": "storage"
+    },
+    {
+        "district": "Оҳангарон шаҳар",
+        "org_name": "\"Темир ота\" МЧЖ",
+        "name": "Оҳангарон шаҳар А.Темур кўчаси",
+        "quantity": 1.0,
+        "capacity": 100.0,
+        "created_workplaces": 1,
+        "type": "storage"
+    },
+    {
+        "district": "Бекобод шаҳар",
+        "org_name": "\"Бекобод шаҳар томорқа хизмати\" МЧЖ",
+        "name": "Бекобод шаҳар Ал-Хоразмий МФЙ Меъмор кўчаси18 А-уй",
+        "quantity": 1.0,
+        "capacity": 500.0,
+        "created_workplaces": 12,
+        "type": "storage"
+    },
+    {
+        "district": "Бекобод шаҳар",
+        "org_name": "\"Ўзметкомбинат\" АЖ",
+        "name": "Сайхун МФЙ Сирдарё кўчаси 1-уй",
+        "quantity": 1.0,
+        "capacity": 250.0,
+        "created_workplaces": 8,
+        "type": "storage"
+    },
+    {
+        "district": "Бекобод шаҳар",
+        "org_name": "\"Бекободцемент\" АЖ",
+        "name": "Бирдамлик МФЙ Истиқлол 20-уй",
+        "quantity": 1.0,
+        "capacity": 7.5,
+        "created_workplaces": 2,
+        "type": "storage"
+    },
+    {
+        "district": "Бекобод шаҳар",
+        "org_name": "\"Бекобод деҳқон бозори\" МЧЖ",
+        "name": "Ўзбекистон МФЙ Буюк ипак йўли кўчаси 1-уй ",
+        "quantity": 1.0,
+        "capacity": 200.0,
+        "created_workplaces": 6,
+        "type": "storage"
+    },
+    {
+        "district": "Бекобод шаҳар",
+        "org_name": "шаҳар Мактабгача таълим муассаси (12 та)",
+        "name": "Шаҳардаги 12 та МТМ ларида",
+        "quantity": 12.0,
+        "capacity": 44.0,
+        "created_workplaces": "None",
+        "type": "storage"
+    },
+    {
+        "district": "Бекобод шаҳар",
+        "org_name": "шаҳар Тиббиёт бирлашмаси",
+        "name": "Бекобод шахар худуди",
+        "quantity": 1.0,
+        "capacity": 35.0,
+        "created_workplaces": "None",
+        "type": "storage"
+    },
+    {
+        "district": "Бекобод шаҳар",
+        "org_name": "шаҳар Халқ таьлими бўлими",
+        "name": "Бекобод шахар худуди",
+        "quantity": 1.0,
+        "capacity": 45.0,
+        "created_workplaces": "None",
+        "type": "storage"
+    },
+    {
+        "district": "Ангрен шаҳар",
+        "org_name": "\"ANGRENSAVDO\" МЧЖ",
+        "name": "“Дўстлик” МФЙ, Бунёдкор кўчаси 36 уй ",
+        "quantity": 1.0,
+        "capacity": 5000.0,
+        "created_workplaces": 3,
+        "type": "storage"
+    },
+    {
+        "district": "Ангрен шаҳар",
+        "org_name": "\"Муқаддас\" ФХ ",
+        "name": "\"Самарчик\" МФЙ",
+        "quantity": 1.0,
+        "capacity": 1000.0,
+        "created_workplaces": 5,
+        "type": "storage"
+    },
+    {
+        "district": "Олмалиқ шаҳар",
+        "org_name": "\"Савдо\" МЧЖ",
+        "name": "Мустақиллик кўчаси",
+        "quantity": 1.0,
+        "capacity": 500.0,
+        "created_workplaces": 10,
+        "type": "storage"
+    },
+    {
+        "district": "Олмалиқ шаҳар",
+        "org_name": "Мактабгача таълим ",
+        "name": "Зулфия 47-уй",
+        "quantity": 17.0,
+        "capacity": 80.0,
+        "created_workplaces": 5,
+        "type": "storage"
+    },
+    {
+        "district": "Олмалиқ шаҳар",
+        "org_name": "Халқ таълими бўлими",
+        "name": "Тотувлик кўчаси 15-уй",
+        "quantity": 2.0,
+        "capacity": 20.0,
+        "created_workplaces": 8,
+        "type": "storage"
+    },
+    {
+        "district": "Янгийўл шаҳар ",
+        "org_name": "Янгийўл таёрлов савдо (бозор)",
+        "name": "Шерматов 4 уй ",
+        "quantity": 1.0,
+        "capacity": 150.0,
+        "created_workplaces": 3,
+        "type": "storage"
+    },
+    {
+        "district": "Янгийўл шаҳар ",
+        "org_name": "Янгийўл озиқ овқат савдо",
+        "name": "Самарқанд кўчаси 187 уй",
+        "quantity": 1.0,
+        "capacity": 500.0,
+        "created_workplaces": 4,
+        "type": "storage"
+    },
+    {
+        "district": "Янгийўл шаҳар ",
+        "org_name": "\"Кристал консерва бизнес\" МЧЖ",
+        "name": "Абдуллақахорова",
+        "quantity": 1.0,
+        "capacity": 200.0,
+        "created_workplaces": 7,
+        "type": "storage"
+    },
+    {
+        "district": "Янгийўл шаҳар ",
+        "org_name": "\"Янгийўл ёғ-мой\" АЖ",
+        "name": "Самарқанд кўчаси 352 уй",
+        "quantity": 1.0,
+        "capacity": 200.0,
+        "created_workplaces": 5,
+        "type": "storage"
+    },
+    {
+        "district": "Чирчиқ шаҳар",
+        "org_name": "\"Максам-Чирчиқ\" МЧЖ",
+        "name": "Тошкент кўчаси 2-уй",
+        "quantity": 1.0,
+        "capacity": 850.0,
+        "created_workplaces": 6,
+        "type": "storage"
+    },
+    {
+        "district": "Чирчиқ шаҳар",
+        "org_name": "Тиббиёт бирлашмаси",
+        "name": "8 кичик нохия ",
+        "quantity": 1.0,
+        "capacity": 3.0,
+        "created_workplaces": "None",
+        "type": "storage"
+    },
+    {
+        "district": "Чирчиқ шаҳар",
+        "org_name": "Мактабгача таълим бўлими",
+        "name": "Ломоносов кўчаси 1 уй",
+        "quantity": 1.0,
+        "capacity": 128.0,
+        "created_workplaces": "None",
+        "type": "storage"
+    },
+    {
+        "district": "Оққўрғон тумани ",
+        "org_name": "\"АБС Оққўрғон агро класстер\" МЧЖ",
+        "name": "Наврўз МФЙ, Мустақиллик кўчаси",
+        "quantity": 1.0,
+        "capacity": 1500.0,
+        "created_workplaces": 4,
+        "type": "storage"
+    },
+    {
+        "district": "Оққўрғон тумани ",
+        "org_name": "Оққўрғон Томорқа хизмати маркази",
+        "name": "Бирлик МФЙ, Навоий кўчаси",
+        "quantity": 1.0,
+        "capacity": 3000.0,
+        "created_workplaces": 2,
+        "type": "storage"
+    },
+    {
+        "district": "Оққўрғон тумани ",
+        "org_name": "78-сонли ММИ",
+        "name": "\"Мустақиллик\" МФЙ",
+        "quantity": 1.0,
+        "capacity": 15.0,
+        "created_workplaces": "None",
+        "type": "storage"
+    },
+    {
+        "district": "Оққўрғон тумани ",
+        "org_name": "Мактабгача таълим бўлими қошидаги МТМ лари",
+        "name": "\"Толовул\" МФЙ",
+        "quantity": 14.0,
+        "capacity": 70.0,
+        "created_workplaces": "None",
+        "type": "storage"
+    },
+    {
+        "district": "Оққўрғон тумани ",
+        "org_name": "Туман Тиббиёт бирлашмаси қошидаги Марказий шифохона ",
+        "name": "\"Бирлик\" МФЙ                                 Р.Мўминова кўчаси",
+        "quantity": 1.0,
+        "capacity": 30.0,
+        "created_workplaces": "None",
+        "type": "storage"
+    },
+    {
+        "district": "Оққўрғон тумани ",
+        "org_name": "\"Қўрғонча\" МЧЖ           ",
+        "name": "\"Қўрғонча\" МФЙ",
+        "quantity": 1.0,
+        "capacity": 300.0,
+        "created_workplaces": 2,
+        "type": "storage"
+    },
+    {
+        "district": "Оҳангарон тумани",
+        "org_name": " \"BIRLIK TOMORQA HIZMAT\" МЧЖ",
+        "name": "Шодмалик МФЙ",
+        "quantity": 1.0,
+        "capacity": 600.0,
+        "created_workplaces": 2,
+        "type": "storage"
+    },
+    {
+        "district": "Оҳангарон тумани",
+        "org_name": "\"MADINA OHANG AGRO\" MCHJ",
+        "name": " Телов МФЙ",
+        "quantity": 1.0,
+        "capacity": 100.0,
+        "created_workplaces": 6,
+        "type": "storage"
+    },
+    {
+        "district": "Бекобод туман",
+        "org_name": "\"МГФ Агро транс\" МЧЖ",
+        "name": "Авангард ф/у, Боғишамол МФЙ",
+        "quantity": 1.0,
+        "capacity": 500.0,
+        "created_workplaces": 3,
+        "type": "storage"
+    },
+    {
+        "district": "Бекобод туман",
+        "org_name": "\"Зафар деҳқон бозори\" МЧЖ",
+        "name": "Деҳқонобод ф/у, Ўзбекобод МФЙ",
+        "quantity": 1.0,
+        "capacity": 85.0,
+        "created_workplaces": 1,
+        "type": "storage"
+    },
+    {
+        "district": "Бекобод туман",
+        "org_name": "Тиббиёт бирлашмаси",
+        "name": "Зафар ш, \nБўстон МФЙ",
+        "quantity": 1.0,
+        "capacity": 55.0,
+        "created_workplaces": 1,
+        "type": "storage"
+    },
+    {
+        "district": "Бекобод туман",
+        "org_name": "Халқ таълими бўлими",
+        "name": "тумандаги МТМларда",
+        "quantity": 1.0,
+        "capacity": 60.0,
+        "created_workplaces": 1,
+        "type": "storage"
+    },
+    {
+        "district": "Бекобод туман",
+        "org_name": "None",
+        "name": "None",
+        "quantity": "None",
+        "capacity": "None",
+        "created_workplaces": "None",
+        "type": "storage"
+    },
+    {
+        "district": "Бўка тумани",
+        "org_name": "\"Universal Dealer\" МЧЖ ",
+        "name": "Ўзбекистон кўчаси 3 уй",
+        "quantity": 1.0,
+        "capacity": 6000.0,
+        "created_workplaces": 10,
+        "type": "storage"
+    },
+    {
+        "district": "Бўка тумани",
+        "org_name": "None",
+        "name": "None",
+        "quantity": "None",
+        "capacity": "None",
+        "created_workplaces": "None",
+        "type": "storage"
+    },
+    {
+        "district": "Бўстонлиқ тумани",
+        "org_name": "\"Сифатли омбор\" МЧЖ",
+        "name": "Дахана МФЙ",
+        "quantity": 1.0,
+        "capacity": 800.0,
+        "created_workplaces": 3,
+        "type": "storage"
+    },
+    {
+        "district": "Бўстонлиқ тумани",
+        "org_name": "Гулфируза Уразалиевна Ф/Х",
+        "name": "Думалоқ ҚФЙ",
+        "quantity": 1.0,
+        "capacity": 500.0,
+        "created_workplaces": 2,
+        "type": "storage"
+    },
+    {
+        "district": "Бўстонлиқ тумани",
+        "org_name": "Шерпўлат Мархамат Фарход  Ф/Х",
+        "name": "Янгиоул ҚФЙ Дўстлик қишлоғи",
+        "quantity": 1.0,
+        "capacity": 200.0,
+        "created_workplaces": 2,
+        "type": "storage"
+    },
+    {
+        "district": "Бўстонлиқ тумани",
+        "org_name": "\"Sevara Bobur\" Ф/Х",
+        "name": "Думалоқ МФЙ",
+        "quantity": 1.0,
+        "capacity": 200.0,
+        "created_workplaces": 2,
+        "type": "storage"
+    },
+    {
+        "district": "Бўстонлиқ тумани",
+        "org_name": "\"Burxon G`olibxon Otaxon\" Ф/Х",
+        "name": "Боймирзаев МФЙ",
+        "quantity": 1.0,
+        "capacity": 300.0,
+        "created_workplaces": 3,
+        "type": "storage"
+    },
+    {
+        "district": "Бўстонлиқ тумани",
+        "org_name": "Туман Тиббиёт бирлашмаси",
+        "name": "Ғазалкент ҚФЙ",
+        "quantity": 1.0,
+        "capacity": 74.0,
+        "created_workplaces": "х",
+        "type": "storage"
+    },
+    {
+        "district": "Бўстонлиқ тумани",
+        "org_name": "Туман Халқ таьлими бўлими",
+        "name": "Бўстонлиқ тумани худудлари",
+        "quantity": 19.0,
+        "capacity": 60.0,
+        "created_workplaces": "х",
+        "type": "storage"
+    },
+    {
+        "district": "Қибрай тумани ",
+        "org_name": "\"Т.Нормухамедов\" агрофирмаси",
+        "name": "Нормухамедов худуди",
+        "quantity": 1.0,
+        "capacity": 500.0,
+        "created_workplaces": 1,
+        "type": "storage"
+    },
+    {
+        "district": "Қибрай тумани ",
+        "org_name": "Байтқурғон Туляков Шухрат",
+        "name": "Байткургон мфй",
+        "quantity": 1.0,
+        "capacity": 1000.0,
+        "created_workplaces": 2,
+        "type": "storage"
+    },
+    {
+        "district": "None",
+        "org_name": "None",
+        "name": "None",
+        "quantity": "None",
+        "capacity": "None",
+        "created_workplaces": "None",
+        "type": "storage"
+    },
+    {
+        "district": "None",
+        "org_name": "None",
+        "name": "None",
+        "quantity": "None",
+        "capacity": "None",
+        "created_workplaces": "None",
+        "type": "storage"
+    },
+    {
+        "district": "None",
+        "org_name": "None",
+        "name": "None",
+        "quantity": "None",
+        "capacity": "None",
+        "created_workplaces": "None",
+        "type": "storage"
+    },
+    {
+        "district": "None",
+        "org_name": "None",
+        "name": "None",
+        "quantity": "None",
+        "capacity": "None",
+        "created_workplaces": "None",
+        "type": "storage"
+    },
+    {
+        "district": "None",
+        "org_name": "None",
+        "name": "None",
+        "quantity": "None",
+        "capacity": "None",
+        "created_workplaces": "None",
+        "type": "storage"
+    },
+    {
+        "district": "None",
+        "org_name": "None",
+        "name": "None",
+        "quantity": "None",
+        "capacity": "None",
+        "created_workplaces": "None",
+        "type": "storage"
+    },
+    {
+        "district": "Қуйи Чирчиқ тумани",
+        "org_name": "\"Агро савдо тайёрлов\" МЧЖ",
+        "name": "Машраб МФЙ",
+        "quantity": 1.0,
+        "capacity": 100.0,
+        "created_workplaces": 8,
+        "type": "storage"
+    },
+    {
+        "district": "Қуйи Чирчиқ тумани",
+        "org_name": "Туман Тиббиёт бирлашмаси",
+        "name": "Дўстобод ш. 4-махалла",
+        "quantity": 1.0,
+        "capacity": 20.0,
+        "created_workplaces": 5,
+        "type": "storage"
+    },
+    {
+        "district": "Қуйи Чирчиқ тумани",
+        "org_name": "\"ТСТ агро кластер\" МЧЖ",
+        "name": "Пахтазор МФЙ",
+        "quantity": 1.0,
+        "capacity": 200.0,
+        "created_workplaces": 10,
+        "type": "storage"
+    },
+    {
+        "district": "Қуйи Чирчиқ тумани",
+        "org_name": "\"ТСТ Рис кластер\" МЧЖ",
+        "name": "Сурум МФЙ",
+        "quantity": 1.0,
+        "capacity": 10000.0,
+        "created_workplaces": 25,
+        "type": "storage"
+    },
+    {
+        "district": "Пискент тумани",
+        "org_name": "Тиббиёт бирлашмаси",
+        "name": "Бирлик МФЙ",
+        "quantity": 1.0,
+        "capacity": 25.0,
+        "created_workplaces": 1,
+        "type": "storage"
+    },
+    {
+        "district": "None",
+        "org_name": "None",
+        "name": "None",
+        "quantity": "None",
+        "capacity": "None",
+        "created_workplaces": "None",
+        "type": "storage"
+    },
+    {
+        "district": "Ўртачирчиқ тумани",
+        "org_name": "Қорасув пахта тозалаш заводи",
+        "name": "Тинчлик МФЙ Заводская кўчаси",
+        "quantity": 1.0,
+        "capacity": 200.0,
+        "created_workplaces": 2,
+        "type": "storage"
+    },
+    {
+        "district": "Ўртачирчиқ тумани",
+        "org_name": "\"Қорасув саҳоват дўст\" Ф/Х",
+        "name": "Қорасув МФЙ",
+        "quantity": 1.0,
+        "capacity": 200.0,
+        "created_workplaces": 2,
+        "type": "storage"
+    },
+    {
+        "district": "Ўртачирчиқ тумани",
+        "org_name": "\"Жахонгир агро бизнес\" Ф/Х",
+        "name": "Саидовул МФЙ",
+        "quantity": 1.0,
+        "capacity": 300.0,
+        "created_workplaces": 3,
+        "type": "storage"
+    },
+    {
+        "district": "Ўртачирчиқ тумани",
+        "org_name": "\"Lead Agroculture Development\" МЧЖ КК",
+        "name": "А.Икрамов ҳудуди \"Бойовул\" МФЙ",
+        "quantity": 1.0,
+        "capacity": 2000.0,
+        "created_workplaces": 14,
+        "type": "storage"
+    },
+    {
+        "district": "Ўртачирчиқ тумани",
+        "org_name": "Х.Т \"Мирзахмедов Ровшан\"",
+        "name": "Қумовул ҳудуди Паркент тракт кўчаси",
+        "quantity": 1.0,
+        "capacity": 1000.0,
+        "created_workplaces": 2,
+        "type": "storage"
+    },
+    {
+        "district": "Ўртачирчиқ тумани",
+        "org_name": " МТМ ",
+        "name": "Қорасув МФЙ",
+        "quantity": 1.0,
+        "capacity": 60.0,
+        "created_workplaces": 2,
+        "type": "storage"
+    },
+    {
+        "district": "Ўртачирчиқ тумани",
+        "org_name": " МТМ ",
+        "name": "Қорасув МФЙ",
+        "quantity": 1.0,
+        "capacity": 40.0,
+        "created_workplaces": 2,
+        "type": "storage"
+    },
+    {
+        "district": "Ўртачирчиқ тумани",
+        "org_name": "None",
+        "name": "Тошлоқ МФЙ ",
+        "quantity": 1.0,
+        "capacity": 40.0,
+        "created_workplaces": 2,
+        "type": "storage"
+    },
+    {
+        "district": "Ўртачирчиқ тумани",
+        "org_name": "Жуманазаров Хакимжон томорқа хизмати ",
+        "name": "Аранчи МФЙ ",
+        "quantity": 1.0,
+        "capacity": 2000.0,
+        "created_workplaces": 10,
+        "type": "storage"
+    },
+    {
+        "district": "Чиноз тумани",
+        "org_name": "\"Ўринбой хожи\" ф/х",
+        "name": "Сутбулоқ мфй",
+        "quantity": 1.0,
+        "capacity": 200.0,
+        "created_workplaces": 1,
+        "type": "storage"
+    },
+    {
+        "district": "Чиноз тумани",
+        "org_name": "Пахта нефт базаси",
+        "name": "Яхши ният мфй",
+        "quantity": 1.0,
+        "capacity": 300.0,
+        "created_workplaces": 2,
+        "type": "storage"
+    },
+    {
+        "district": "Чиноз тумани",
+        "org_name": "\"Таьминотчи Пахта\"",
+        "name": "Яхши ният мфй",
+        "quantity": 1.0,
+        "capacity": 400.0,
+        "created_workplaces": 2,
+        "type": "storage"
+    },
+    {
+        "district": "Чиноз тумани",
+        "org_name": "\"Абдураззоқ файз барака\" ф/х",
+        "name": "Дўстлик мфй",
+        "quantity": 1.0,
+        "capacity": 120.0,
+        "created_workplaces": 1,
+        "type": "storage"
+    },
+    {
+        "district": "Чиноз тумани",
+        "org_name": "\"Чиноз агро файз\" ф/х",
+        "name": "Истиқлол мфй",
+        "quantity": 1.0,
+        "capacity": 200.0,
+        "created_workplaces": 1,
+        "type": "storage"
+    },
+    {
+        "district": "Чиноз тумани",
+        "org_name": "\"Усмонобод\" ф/х",
+        "name": "Боғбон мфй",
+        "quantity": 1.0,
+        "capacity": 120.0,
+        "created_workplaces": 1,
+        "type": "storage"
+    },
+    {
+        "district": "Чиноз тумани",
+        "org_name": "\"Акромов Алишер\" ф/х",
+        "name": "Истиқлол мфй",
+        "quantity": 1.0,
+        "capacity": 70.0,
+        "created_workplaces": 1,
+        "type": "storage"
+    },
+    {
+        "district": "Чиноз тумани",
+        "org_name": "\"Арслонбоев А\" ф/х",
+        "name": "Истиқлол мфй",
+        "quantity": 1.0,
+        "capacity": 70.0,
+        "created_workplaces": 1,
+        "type": "storage"
+    },
+    {
+        "district": "Чиноз тумани",
+        "org_name": "\"NIXOL AZIZBEK AGRO\" фх",
+        "name": "Дустлик мфй",
+        "quantity": 1.0,
+        "capacity": 50.0,
+        "created_workplaces": 1,
+        "type": "storage"
+    },
+    {
+        "district": "Чиноз тумани",
+        "org_name": "\"CHINOZ TEXTILE\" МЧЖ                ",
+        "name": "Чиноз шахри Сарбозор МФЙ",
+        "quantity": 1.0,
+        "capacity": 100.0,
+        "created_workplaces": 1,
+        "type": "storage"
+    },
+    {
+        "district": "Чиноз тумани",
+        "org_name": "\"Чиноз Дехқон бозори\" МЧЖ",
+        "name": "Чиноз шахри Бешкапа\n МФЙ Самарқанд кўчаси",
+        "quantity": 1.0,
+        "capacity": 100.0,
+        "created_workplaces": 1,
+        "type": "storage"
+    },
+    {
+        "district": "Чиноз тумани",
+        "org_name": "Пахта тозалаш корхонаси ",
+        "name": "Хўжа мфй Охунбобоев кўчаси",
+        "quantity": 1.0,
+        "capacity": 200.0,
+        "created_workplaces": 1,
+        "type": "storage"
+    },
+    {
+        "district": "Чиноз тумани",
+        "org_name": "None",
+        "name": "None",
+        "quantity": "None",
+        "capacity": "None",
+        "created_workplaces": "None",
+        "type": "storage"
+    },
+    {
+        "district": "Чиноз тумани",
+        "org_name": "None",
+        "name": "None",
+        "quantity": "None",
+        "capacity": "None",
+        "created_workplaces": "None",
+        "type": "storage"
+    },
+    {
+        "district": "Чиноз тумани",
+        "org_name": "None",
+        "name": "None",
+        "quantity": "None",
+        "capacity": "None",
+        "created_workplaces": "None",
+        "type": "storage"
+    },
+    {
+        "district": "Юқори Чирчиқ тумани",
+        "org_name": "\"Дехкон бозори\" МЧЖ",
+        "name": "Янгибозор ҚФЙ",
+        "quantity": 1.0,
+        "capacity": 25.0,
+        "created_workplaces": 1,
+        "type": "storage"
+    },
+    {
+        "district": "Юқори Чирчиқ тумани",
+        "org_name": "Фермер уюшмасида 10 та омбор",
+        "name": "туман худудларида",
+        "quantity": 1.0,
+        "capacity": 1000.0,
+        "created_workplaces": 10,
+        "type": "storage"
+    },
+    {
+        "district": "Юқори Чирчиқ тумани",
+        "org_name": "туман Тиббиёт бирлашмаси",
+        "name": "Оқ овул  ҚФЙ",
+        "quantity": 1.0,
+        "capacity": 30.0,
+        "created_workplaces": 1,
+        "type": "storage"
+    },
+    {
+        "district": "Юқори Чирчиқ тумани",
+        "org_name": "туман Халқ таьлими бўлими",
+        "name": "Янгибозор ҚФЙ",
+        "quantity": 1.0,
+        "capacity": 45.0,
+        "created_workplaces": 1,
+        "type": "storage"
+    },
+    {
+        "district": "None",
+        "org_name": "None",
+        "name": "None",
+        "quantity": "None",
+        "capacity": "None",
+        "created_workplaces": "None",
+        "type": "storage"
+    },
+    {
+        "district": "None",
+        "org_name": "None",
+        "name": "None",
+        "quantity": "None",
+        "capacity": "None",
+        "created_workplaces": "None",
+        "type": "storage"
+    },
+    {
+        "district": "None",
+        "org_name": "None",
+        "name": "None",
+        "quantity": "None",
+        "capacity": "None",
+        "created_workplaces": "None",
+        "type": "storage"
+    },
+    {
+        "district": "None",
+        "org_name": "None",
+        "name": "None",
+        "quantity": "None",
+        "capacity": "None",
+        "created_workplaces": "None",
+        "type": "storage"
+    },
+    {
+        "district": "Янгийўл туман",
+        "org_name": "\"Гулбахор хамкор Савдо\" МЧЖ",
+        "name": "Эски Қовунчи ҚФЙ Самарқанд кўчаси 254",
+        "quantity": 1.0,
+        "capacity": 200.0,
+        "created_workplaces": 2,
+        "type": "storage"
+    },
+    {
+        "district": "Янгийўл туман",
+        "org_name": "ООО \"Камолот Крафт Алхожи\"",
+        "name": "Э.Қовунчи ҚФЙ",
+        "quantity": 1.0,
+        "capacity": 1000.0,
+        "created_workplaces": 5,
+        "type": "storage"
+    },
+    {
+        "district": "Янгийўл туман",
+        "org_name": "ООО \"GENERAL PACKAGING\"",
+        "name": "Уразов кучаси 2 уй",
+        "quantity": 1.0,
+        "capacity": 500.0,
+        "created_workplaces": 3,
+        "type": "storage"
+    },
+    {
+        "district": "Янгийўл туман",
+        "org_name": "None",
+        "name": "None",
+        "quantity": "None",
+        "capacity": "None",
+        "created_workplaces": "None",
+        "type": "storage"
+    },
+    {
+        "district": "Янгийўл туман",
+        "org_name": "None",
+        "name": "None",
+        "quantity": "None",
+        "capacity": "None",
+        "created_workplaces": "None",
+        "type": "storage"
+    },
+    {
+        "district": "Янгийўл туман",
+        "org_name": "None",
+        "name": "None",
+        "quantity": "None",
+        "capacity": "None",
+        "created_workplaces": "None",
+        "type": "storage"
+    },
+    {
+        "district": "Янгийўл туман",
+        "org_name": "None",
+        "name": "None",
+        "quantity": "None",
+        "capacity": "None",
+        "created_workplaces": "None",
+        "type": "storage"
+    },
+    {
+        "district": "Янгийўл туман",
+        "org_name": "None",
+        "name": "None",
+        "quantity": "None",
+        "capacity": "None",
+        "created_workplaces": "None",
+        "type": "storage"
+    },
+    {
+        "district": "Янгийўл туман",
+        "org_name": "None",
+        "name": "None",
+        "quantity": "None",
+        "capacity": "None",
+        "created_workplaces": "None",
+        "type": "storage"
+    },
+    {
+        "district": "Янгийўл туман",
+        "org_name": "None",
+        "name": "None",
+        "quantity": "None",
+        "capacity": "None",
+        "created_workplaces": "None",
+        "type": "storage"
+    },
+    {
+        "district": "Янгийўл туман",
+        "org_name": "None",
+        "name": "None",
+        "quantity": "None",
+        "capacity": "None",
+        "created_workplaces": "None",
+        "type": "storage"
+    },
+    {
+        "district": "Янгийўл туман",
+        "org_name": "None",
+        "name": "None",
+        "quantity": "None",
+        "capacity": "None",
+        "created_workplaces": "None",
+        "type": "storage"
+    },
+    {
+        "district": "Паркент тумани ",
+        "org_name": "\"Бурхон савдо\" МЧЖ",
+        "name": "Паркент ш. Қўличи МФЙ",
+        "quantity": 1.0,
+        "capacity": 100.0,
+        "created_workplaces": 1,
+        "type": "storage"
+    },
+    {
+        "district": "Паркент тумани ",
+        "org_name": "Акушерлик комплекси",
+        "name": "Хисорак ҚФЙ Акушерлик комплекси",
+        "quantity": 1.0,
+        "capacity": 30.0,
+        "created_workplaces": 1,
+        "type": "storage"
+    },
+    {
+        "district": "Паркент тумани ",
+        "org_name": "Газлаштириш идораси",
+        "name": "Паркент тумани Кесканжар массиви",
+        "quantity": 1.0,
+        "capacity": 18.0,
+        "created_workplaces": 1,
+        "type": "storage"
+    },
+    {
+        "district": "Паркент тумани ",
+        "org_name": "Йўл қурилиш идораси",
+        "name": "Паркент тумани",
+        "quantity": 1.0,
+        "capacity": 20.0,
+        "created_workplaces": 1,
+        "type": "storage"
+    },
+    {
+        "district": "Паркент тумани ",
+        "org_name": "МТМ",
+        "name": " Паркент Укитувчилар кучаси-56",
+        "quantity": 16.0,
+        "capacity": 135.0,
+        "created_workplaces": 16,
+        "type": "storage"
+    },
+    {
+        "district": "Паркент тумани ",
+        "org_name": "\"Паркент Деҳқон бозори\" МЧЖ",
+        "name": "Паркент А.Навоий ",
+        "quantity": 1.0,
+        "capacity": 200.0,
+        "created_workplaces": 4,
+        "type": "storage"
+    },
+    {
+        "district": "Паркент тумани ",
+        "org_name": "“Паркент Зиё Нур” МЧЖ",
+        "name": "Бойқозон МФЙ",
+        "quantity": 1.0,
+        "capacity": 100.0,
+        "created_workplaces": 1,
+        "type": "storage"
+    },
+    {
+        "district": "None",
+        "org_name": "None",
+        "name": "None",
+        "quantity": "None",
+        "capacity": "None",
+        "created_workplaces": "None",
+        "type": "storage"
+    },
+    {
+        "district": "None",
+        "org_name": "None",
+        "name": "None",
+        "quantity": "None",
+        "capacity": "None",
+        "created_workplaces": "None",
+        "type": "storage"
+    },
+    {
+        "district": "None",
+        "org_name": "None",
+        "name": "None",
+        "quantity": "None",
+        "capacity": "None",
+        "created_workplaces": "None",
+        "type": "storage"
+    },
+    {
+        "district": "None",
+        "org_name": "None",
+        "name": "None",
+        "quantity": "None",
+        "capacity": "None",
+        "created_workplaces": "None",
+        "type": "storage"
+    },
+    {
+        "district": "None",
+        "org_name": "None",
+        "name": "None",
+        "quantity": "None",
+        "capacity": "None",
+        "created_workplaces": "None",
+        "type": "storage"
+    },
+    {
+        "district": "None",
+        "org_name": "None",
+        "name": "None",
+        "quantity": "None",
+        "capacity": "None",
+        "created_workplaces": "None",
+        "type": "storage"
+    },
+    {
+        "district": "None",
+        "org_name": "None",
+        "name": "None",
+        "quantity": "None",
+        "capacity": "None",
+        "created_workplaces": "None",
+        "type": "storage"
+    },
+    {
+        "district": "None",
+        "org_name": "None",
+        "name": "None",
+        "quantity": "None",
+        "capacity": "None",
+        "created_workplaces": "None",
+        "type": "storage"
+    },
+    {
+        "district": "None",
+        "org_name": "None",
+        "name": "None",
+        "quantity": "None",
+        "capacity": "None",
+        "created_workplaces": "None",
+        "type": "storage"
+    },
+    {
+        "district": "None",
+        "org_name": "None",
+        "name": "None",
+        "quantity": "None",
+        "capacity": "None",
+        "created_workplaces": "None",
+        "type": "storage"
+    },
+    {
+        "district": "None",
+        "org_name": "None",
+        "name": "None",
+        "quantity": "None",
+        "capacity": "None",
+        "created_workplaces": "None",
+        "type": "storage"
+    },
+    {
+        "district": "None",
+        "org_name": "None",
+        "name": "None",
+        "quantity": "None",
+        "capacity": "None",
+        "created_workplaces": "None",
+        "type": "storage"
+    },
+    {
+        "district": "None",
+        "org_name": "None",
+        "name": "None",
+        "quantity": "None",
+        "capacity": "None",
+        "created_workplaces": "None",
+        "type": "storage"
+    },
+    {
+        "district": "None",
+        "org_name": "None",
+        "name": "None",
+        "quantity": "None",
+        "capacity": "None",
+        "created_workplaces": "None",
+        "type": "storage"
+    },
+    {
+        "district": "None",
+        "org_name": "None",
+        "name": "None",
+        "quantity": "None",
+        "capacity": "None",
+        "created_workplaces": "None",
+        "type": "storage"
+    },
+    {
+        "district": "None",
+        "org_name": "None",
+        "name": "None",
+        "quantity": "None",
+        "capacity": "None",
+        "created_workplaces": "None",
+        "type": "storage"
+    },
+    {
+        "district": "None",
+        "org_name": "None",
+        "name": "None",
+        "quantity": "None",
+        "capacity": "None",
+        "created_workplaces": "None",
+        "type": "storage"
+    },
+    {
+        "district": "None",
+        "org_name": "None",
+        "name": "None",
+        "quantity": "None",
+        "capacity": "None",
+        "created_workplaces": "None",
+        "type": "storage"
+    },
+    {
+        "district": "None",
+        "org_name": "None",
+        "name": "None",
+        "quantity": "None",
+        "capacity": "None",
+        "created_workplaces": "None",
+        "type": "storage"
+    },
+    {
+        "district": "None",
+        "org_name": "None",
+        "name": "None",
+        "quantity": "None",
+        "capacity": "None",
+        "created_workplaces": "None",
+        "type": "storage"
+    },
+    {
+        "district": "None",
+        "org_name": "None",
+        "name": "None",
+        "quantity": "None",
+        "capacity": "None",
+        "created_workplaces": "None",
+        "type": "storage"
+    },
+    {
+        "district": "None",
+        "org_name": "None",
+        "name": "None",
+        "quantity": "None",
+        "capacity": "None",
+        "created_workplaces": "None",
+        "type": "storage"
+    },
+    {
+        "district": "None",
+        "org_name": "None",
+        "name": "None",
+        "quantity": "None",
+        "capacity": "None",
+        "created_workplaces": "None",
+        "type": "storage"
+    },
+    {
+        "district": "None",
+        "org_name": "None",
+        "name": "None",
+        "quantity": "None",
+        "capacity": "None",
+        "created_workplaces": "None",
+        "type": "storage"
+    },
+    {
+        "district": "None",
+        "org_name": "None",
+        "name": "None",
+        "quantity": "None",
+        "capacity": "None",
+        "created_workplaces": "None",
+        "type": "storage"
+    },
+    {
+        "district": "None",
+        "org_name": "None",
+        "name": "None",
+        "quantity": "None",
+        "capacity": "None",
+        "created_workplaces": "None",
+        "type": "storage"
+    },
+    {
+        "district": "None",
+        "org_name": "None",
+        "name": "None",
+        "quantity": "None",
+        "capacity": "None",
+        "created_workplaces": "None",
+        "type": "storage"
+    },
+    {
+        "district": "None",
+        "org_name": "None",
+        "name": "None",
+        "quantity": "None",
+        "capacity": "None",
+        "created_workplaces": "None",
+        "type": "storage"
+    },
+    {
+        "district": "None",
+        "org_name": "None",
+        "name": "None",
+        "quantity": "None",
+        "capacity": "None",
+        "created_workplaces": "None",
+        "type": "storage"
+    },
+    {
+        "district": "None",
+        "org_name": "None",
+        "name": "None",
+        "quantity": "None",
+        "capacity": "None",
+        "created_workplaces": "None",
+        "type": "storage"
+    },
+    {
+        "district": "None",
+        "org_name": "None",
+        "name": "None",
+        "quantity": "None",
+        "capacity": "None",
+        "created_workplaces": "None",
+        "type": "storage"
+    },
+    {
+        "district": "None",
+        "org_name": "None",
+        "name": "None",
+        "quantity": "None",
+        "capacity": "None",
+        "created_workplaces": "None",
+        "type": "storage"
+    },
+    {
+        "district": "None",
+        "org_name": "None",
+        "name": "None",
+        "quantity": "None",
+        "capacity": "None",
+        "created_workplaces": "None",
+        "type": "storage"
+    },
+    {
+        "district": "Тошкент тумани",
+        "org_name": "Хасанбой агро нур агрофирмаси",
+        "name": "Хасанбой агро нур агрофирмаси",
+        "quantity": 1.0,
+        "capacity": 100.0,
+        "created_workplaces": 3,
+        "type": "storage"
+    },
+    {
+        "district": "Тошкент тумани",
+        "org_name": "Ғишткщприк агро агрофирмаси",
+        "name": "Ғишткщприк агро агрофирмаси",
+        "quantity": 1.0,
+        "capacity": 500.0,
+        "created_workplaces": 10,
+        "type": "storage"
+    },
+    {
+        "district": "Тошкент тумани",
+        "org_name": "Навоий миришкор агрофирмаси",
+        "name": "Навоий миришкор агрофирмаси",
+        "quantity": 1.0,
+        "capacity": 500.0,
+        "created_workplaces": 10,
+        "type": "storage"
+    },
+    {
+        "district": "Тошкент тумани",
+        "org_name": "Кўктерак хосилот файз агрофирмаси",
+        "name": "Кўктерак хосилот файз агрофирмаси",
+        "quantity": 1.0,
+        "capacity": 50.0,
+        "created_workplaces": 2,
+        "type": "storage"
+    },
+    {
+        "district": "Тошкент тумани",
+        "org_name": "Тош-Тўлабий агро агрофирмаси",
+        "name": "Тош-Тўлабий агро агрофирмаси",
+        "quantity": 1.0,
+        "capacity": 500.0,
+        "created_workplaces": 10,
+        "type": "storage"
+    },
+    {
+        "district": "None",
+        "org_name": "None",
+        "name": "None",
+        "quantity": "None",
+        "capacity": "None",
+        "created_workplaces": "None",
+        "type": "storage"
+    },
+    {
+        "district": "None",
+        "org_name": "None",
+        "name": "None",
+        "quantity": "None",
+        "capacity": "None",
+        "created_workplaces": "None",
+        "type": "storage"
+    },
+    {
+        "district": "Зангиота тумани",
+        "org_name": "\"MULTIMODAL TRANS TERMINAL\" МЧЖ",
+        "name": "НАЗАРБЕК КФЙ ЛОЙИХАЛАШ КУЧАСИ 7-УЙ",
+        "quantity": 1.0,
+        "capacity": 600.0,
+        "created_workplaces": 5,
+        "type": "storage"
+    },
+    {
+        "district": "Зангиота тумани",
+        "org_name": "\"CHIN-ROSS TRADE\" МЧЖ",
+        "name": "ЎЗГАРИШ ҚФЙ ПАСТДАРХОН МФЙ НАВРЎЗ КЎЧАСИ 22 УЙ",
+        "quantity": 1.0,
+        "capacity": 600.0,
+        "created_workplaces": 3,
+        "type": "storage"
+    },
+    {
+        "district": "Зангиота тумани",
+        "org_name": "\"MUSAEV AGRO BIZNES\" Ф/Х",
+        "name": "ЧИҒАТОЙ ОҚ ТЕПА ҚФЙ",
+        "quantity": 1.0,
+        "capacity": 500.0,
+        "created_workplaces": 3,
+        "type": "storage"
+    },
+    {
+        "district": "Зангиота тумани",
+        "org_name": "\"Рахим Отажон\" Ф/X",
+        "name": "НАЗАРБЕК КФЙ ҚАЙНАМА КЎЧАСИ",
+        "quantity": 1.0,
+        "capacity": 200.0,
+        "created_workplaces": 2,
+        "type": "storage"
+    }
+]
