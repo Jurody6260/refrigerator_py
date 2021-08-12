@@ -60,9 +60,7 @@
         "quantity": 1.0,
         "capacity": 7.5,
         "created_workplaces": 2,
-        "type": "storage",
-        "lat": 42.070305,
-        "lon": 70.405246
+        "type": "storage"
     },
     {
         "district": "Бекобод шаҳар",
@@ -80,9 +78,7 @@
         "quantity": 12.0,
         "capacity": 44.0,
         "created_workplaces": "None",
-        "type": "storage",
-        "lat": 40.944089,
-        "lon": 72.233877
+        "type": "storage"
     },
     {
         "district": "Бекобод шаҳар",
@@ -91,9 +87,7 @@
         "quantity": 1.0,
         "capacity": 35.0,
         "created_workplaces": "None",
-        "type": "storage",
-        "lat": 38.039882,
-        "lon": 66.607792
+        "type": "storage"
     },
     {
         "district": "Бекобод шаҳар",
@@ -120,9 +114,7 @@
         "quantity": 1.0,
         "capacity": 1000.0,
         "created_workplaces": 5,
-        "type": "storage",
-        "lat": 41.582924,
-        "lon": 62.66966
+        "type": "storage"
     },
     {
         "district": "Олмалиқ шаҳар",
@@ -149,9 +141,7 @@
         "quantity": 2.0,
         "capacity": 20.0,
         "created_workplaces": 8,
-        "type": "storage",
-        "lat": 41.736963,
-        "lon": 65.10219
+        "type": "storage"
     },
     {
         "district": "Янгийўл шаҳар ",
@@ -169,9 +159,7 @@
         "quantity": 1.0,
         "capacity": 500.0,
         "created_workplaces": 4,
-        "type": "storage",
-        "lat": 37.628924,
-        "lon": 67.678032
+        "type": "storage"
     },
     {
         "district": "Янгийўл шаҳар ",
@@ -180,9 +168,7 @@
         "quantity": 1.0,
         "capacity": 200.0,
         "created_workplaces": 7,
-        "type": "storage",
-        "lat": 40.999513,
-        "lon": 71.612202
+        "type": "storage"
     },
     {
         "district": "Янгийўл шаҳар ",
@@ -191,9 +177,7 @@
         "quantity": 1.0,
         "capacity": 200.0,
         "created_workplaces": 5,
-        "type": "storage",
-        "lat": 39.887988,
-        "lon": 64.357079
+        "type": "storage"
     },
     {
         "district": "Чирчиқ шаҳар",
@@ -220,9 +204,7 @@
         "quantity": 1.0,
         "capacity": 128.0,
         "created_workplaces": "None",
-        "type": "storage",
-        "lat": 42.471795,
-        "lon": 59.520517
+        "type": "storage"
     },
     {
         "district": "Оққўрғон тумани ",
@@ -231,9 +213,7 @@
         "quantity": 1.0,
         "capacity": 1500.0,
         "created_workplaces": 4,
-        "type": "storage",
-        "lat": 42.784645,
-        "lon": 62.575645
+        "type": "storage"
     },
     {
         "district": "Оққўрғон тумани ",
@@ -242,9 +222,7 @@
         "quantity": 1.0,
         "capacity": 3000.0,
         "created_workplaces": 2,
-        "type": "storage",
-        "lat": 41.177709,
-        "lon": 70.071813
+        "type": "storage"
     },
     {
         "district": "Оққўрғон тумани ",
@@ -262,9 +240,7 @@
         "quantity": 14.0,
         "capacity": 70.0,
         "created_workplaces": "None",
-        "type": "storage",
-        "lat": 43.732626,
-        "lon": 60.651059
+        "type": "storage"
     },
     {
         "district": "Оққўрғон тумани ",
@@ -273,9 +249,7 @@
         "quantity": 1.0,
         "capacity": 30.0,
         "created_workplaces": "None",
-        "type": "storage",
-        "lat": 41.219477,
-        "lon": 70.021541
+        "type": "storage"
     },
     {
         "district": "Оққўрғон тумани ",
@@ -284,9 +258,7 @@
         "quantity": 1.0,
         "capacity": 300.0,
         "created_workplaces": 2,
-        "type": "storage",
-        "lat": 40.4121,
-        "lon": 71.386776
+        "type": "storage"
     },
     {
         "district": "Оҳангарон тумани",
@@ -295,9 +267,7 @@
         "quantity": 1.0,
         "capacity": 600.0,
         "created_workplaces": 2,
-        "type": "storage",
-        "lat": 43.023983,
-        "lon": 63.019252
+        "type": "storage"
     },
     {
         "district": "Оҳангарон тумани",
@@ -351,9 +321,7 @@
         "quantity": "None",
         "capacity": "None",
         "created_workplaces": "None",
-        "type": "storage",
-        "lat": 42.023728,
-        "lon": 64.26217
+        "type": "storage"
     },
     {
         "district": "Бўка тумани",
@@ -362,9 +330,7 @@
         "quantity": 1.0,
         "capacity": 6000.0,
         "created_workplaces": 10,
-        "type": "storage",
-        "lat": 38.904885,
-        "lon": 64.814516
+        "type": "storage"
     },
     {
         "district": "Бўка тумани",
@@ -391,9 +357,7 @@
         "quantity": 1.0,
         "capacity": 500.0,
         "created_workplaces": 2,
-        "type": "storage",
-        "lat": 42.491813,
-        "lon": 65.380352
+        "type": "storage"
     },
     {
         "district": "Бўстонлиқ тумани",
@@ -483,9 +447,7 @@
         "quantity": "None",
         "capacity": "None",
         "created_workplaces": "None",
-        "type": "storage",
-        "lat": 40.52747,
-        "lon": 71.908574
+        "type": "storage"
     },
     {
         "district": "None",
@@ -548,9 +510,7 @@
         "quantity": 1.0,
         "capacity": 10000.0,
         "created_workplaces": 25,
-        "type": "storage",
-        "lat": 43.459595,
-        "lon": 62.625162
+        "type": "storage"
     },
     {
         "district": "Пискент тумани",
@@ -559,9 +519,7 @@
         "quantity": 1.0,
         "capacity": 25.0,
         "created_workplaces": 1,
-        "type": "storage",
-        "lat": 38.000215,
-        "lon": 67.283018
+        "type": "storage"
     },
     {
         "district": "None",
@@ -588,9 +546,7 @@
         "quantity": 1.0,
         "capacity": 200.0,
         "created_workplaces": 2,
-        "type": "storage",
-        "lat": 41.304563,
-        "lon": 65.541935
+        "type": "storage"
     },
     {
         "district": "Ўртачирчиқ тумани",
@@ -608,9 +564,7 @@
         "quantity": 1.0,
         "capacity": 2000.0,
         "created_workplaces": 14,
-        "type": "storage",
-        "lat": 38.80161,
-        "lon": 67.885741
+        "type": "storage"
     },
     {
         "district": "Ўртачирчиқ тумани",
@@ -619,9 +573,7 @@
         "quantity": 1.0,
         "capacity": 1000.0,
         "created_workplaces": 2,
-        "type": "storage",
-        "lat": 41.733624,
-        "lon": 60.622478
+        "type": "storage"
     },
     {
         "district": "Ўртачирчиқ тумани",
@@ -639,9 +591,7 @@
         "quantity": 1.0,
         "capacity": 40.0,
         "created_workplaces": 2,
-        "type": "storage",
-        "lat": 38.994113,
-        "lon": 66.784962
+        "type": "storage"
     },
     {
         "district": "Ўртачирчиқ тумани",
@@ -650,9 +600,7 @@
         "quantity": 1.0,
         "capacity": 40.0,
         "created_workplaces": 2,
-        "type": "storage",
-        "lat": 40.543285,
-        "lon": 67.324873
+        "type": "storage"
     },
     {
         "district": "Ўртачирчиқ тумани",
@@ -670,9 +618,7 @@
         "quantity": 1.0,
         "capacity": 200.0,
         "created_workplaces": 1,
-        "type": "storage",
-        "lat": 37.948052,
-        "lon": 67.779923
+        "type": "storage"
     },
     {
         "district": "Чиноз тумани",
@@ -699,9 +645,7 @@
         "quantity": 1.0,
         "capacity": 120.0,
         "created_workplaces": 1,
-        "type": "storage",
-        "lat": 40.31894,
-        "lon": 71.053958
+        "type": "storage"
     },
     {
         "district": "Чиноз тумани",
@@ -737,9 +681,7 @@
         "quantity": 1.0,
         "capacity": 70.0,
         "created_workplaces": 1,
-        "type": "storage",
-        "lat": 43.131897,
-        "lon": 61.00019
+        "type": "storage"
     },
     {
         "district": "Чиноз тумани",
@@ -757,9 +699,7 @@
         "quantity": 1.0,
         "capacity": 100.0,
         "created_workplaces": 1,
-        "type": "storage",
-        "lat": 39.316748,
-        "lon": 65.601577
+        "type": "storage"
     },
     {
         "district": "Чиноз тумани",
@@ -822,9 +762,7 @@
         "quantity": 1.0,
         "capacity": 1000.0,
         "created_workplaces": 10,
-        "type": "storage",
-        "lat": 41.252882,
-        "lon": 70.62367
+        "type": "storage"
     },
     {
         "district": "Юқори Чирчиқ тумани",
@@ -869,9 +807,7 @@
         "quantity": "None",
         "capacity": "None",
         "created_workplaces": "None",
-        "type": "storage",
-        "lat": 40.042957,
-        "lon": 63.217292
+        "type": "storage"
     },
     {
         "district": "None",
@@ -916,9 +852,16 @@
         "quantity": "None",
         "capacity": "None",
         "created_workplaces": "None",
-        "type": "storage",
-        "lat": 37.895738,
-        "lon": 66.759675
+        "type": "storage"
+    },
+    {
+        "district": "Янгийўл туман",
+        "org_name": "None",
+        "name": "None",
+        "quantity": "None",
+        "capacity": "None",
+        "created_workplaces": "None",
+        "type": "storage"
     },
     {
         "district": "Янгийўл туман",
@@ -945,17 +888,6 @@
         "quantity": "None",
         "capacity": "None",
         "created_workplaces": "None",
-        "type": "storage",
-        "lat": 41.117234,
-        "lon": 62.089085
-    },
-    {
-        "district": "Янгийўл туман",
-        "org_name": "None",
-        "name": "None",
-        "quantity": "None",
-        "capacity": "None",
-        "created_workplaces": "None",
         "type": "storage"
     },
     {
@@ -974,9 +906,7 @@
         "quantity": "None",
         "capacity": "None",
         "created_workplaces": "None",
-        "type": "storage",
-        "lat": 42.736028,
-        "lon": 65.284226
+        "type": "storage"
     },
     {
         "district": "Янгийўл туман",
@@ -1003,9 +933,7 @@
         "quantity": 1.0,
         "capacity": 100.0,
         "created_workplaces": 1,
-        "type": "storage",
-        "lat": 43.124513,
-        "lon": 64.589087
+        "type": "storage"
     },
     {
         "district": "Паркент тумани ",
@@ -1023,9 +951,7 @@
         "quantity": 1.0,
         "capacity": 18.0,
         "created_workplaces": 1,
-        "type": "storage",
-        "lat": 41.374913,
-        "lon": 65.159136
+        "type": "storage"
     },
     {
         "district": "Паркент тумани ",
@@ -1052,9 +978,7 @@
         "quantity": 1.0,
         "capacity": 200.0,
         "created_workplaces": 4,
-        "type": "storage",
-        "lat": 37.514882,
-        "lon": 66.738259
+        "type": "storage"
     },
     {
         "district": "Паркент тумани ",
@@ -1090,9 +1014,43 @@
         "quantity": "None",
         "capacity": "None",
         "created_workplaces": "None",
-        "type": "storage",
-        "lat": 40.839693,
-        "lon": 67.445618
+        "type": "storage"
+    },
+    {
+        "district": "None",
+        "org_name": "None",
+        "name": "None",
+        "quantity": "None",
+        "capacity": "None",
+        "created_workplaces": "None",
+        "type": "storage"
+    },
+    {
+        "district": "None",
+        "org_name": "None",
+        "name": "None",
+        "quantity": "None",
+        "capacity": "None",
+        "created_workplaces": "None",
+        "type": "storage"
+    },
+    {
+        "district": "None",
+        "org_name": "None",
+        "name": "None",
+        "quantity": "None",
+        "capacity": "None",
+        "created_workplaces": "None",
+        "type": "storage"
+    },
+    {
+        "district": "None",
+        "org_name": "None",
+        "name": "None",
+        "quantity": "None",
+        "capacity": "None",
+        "created_workplaces": "None",
+        "type": "storage"
     },
     {
         "district": "None",
@@ -1146,17 +1104,6 @@
         "quantity": "None",
         "capacity": "None",
         "created_workplaces": "None",
-        "type": "storage",
-        "lat": 43.617356,
-        "lon": 59.614812
-    },
-    {
-        "district": "None",
-        "org_name": "None",
-        "name": "None",
-        "quantity": "None",
-        "capacity": "None",
-        "created_workplaces": "None",
         "type": "storage"
     },
     {
@@ -1166,82 +1113,7 @@
         "quantity": "None",
         "capacity": "None",
         "created_workplaces": "None",
-        "type": "storage",
-        "lat": 40.119659,
-        "lon": 67.160789
-    },
-    {
-        "district": "None",
-        "org_name": "None",
-        "name": "None",
-        "quantity": "None",
-        "capacity": "None",
-        "created_workplaces": "None",
-        "type": "storage",
-        "lat": 40.622581,
-        "lon": 62.384365
-    },
-    {
-        "district": "None",
-        "org_name": "None",
-        "name": "None",
-        "quantity": "None",
-        "capacity": "None",
-        "created_workplaces": "None",
-        "type": "storage",
-        "lat": 43.612061,
-        "lon": 64.975334
-    },
-    {
-        "district": "None",
-        "org_name": "None",
-        "name": "None",
-        "quantity": "None",
-        "capacity": "None",
-        "created_workplaces": "None",
         "type": "storage"
-    },
-    {
-        "district": "None",
-        "org_name": "None",
-        "name": "None",
-        "quantity": "None",
-        "capacity": "None",
-        "created_workplaces": "None",
-        "type": "storage",
-        "lat": 42.757185,
-        "lon": 64.012812
-    },
-    {
-        "district": "None",
-        "org_name": "None",
-        "name": "None",
-        "quantity": "None",
-        "capacity": "None",
-        "created_workplaces": "None",
-        "type": "storage",
-        "lat": 38.375212,
-        "lon": 67.637621
-    },
-    {
-        "district": "None",
-        "org_name": "None",
-        "name": "None",
-        "quantity": "None",
-        "capacity": "None",
-        "created_workplaces": "None",
-        "type": "storage"
-    },
-    {
-        "district": "None",
-        "org_name": "None",
-        "name": "None",
-        "quantity": "None",
-        "capacity": "None",
-        "created_workplaces": "None",
-        "type": "storage",
-        "lat": 37.651936,
-        "lon": 67.642883
     },
     {
         "district": "None",
@@ -1268,9 +1140,7 @@
         "quantity": "None",
         "capacity": "None",
         "created_workplaces": "None",
-        "type": "storage",
-        "lat": 43.365895,
-        "lon": 62.40351
+        "type": "storage"
     },
     {
         "district": "None",
@@ -1288,9 +1158,7 @@
         "quantity": "None",
         "capacity": "None",
         "created_workplaces": "None",
-        "type": "storage",
-        "lat": 39.273296,
-        "lon": 67.076659
+        "type": "storage"
     },
     {
         "district": "None",
@@ -1308,9 +1176,7 @@
         "quantity": "None",
         "capacity": "None",
         "created_workplaces": "None",
-        "type": "storage",
-        "lat": 40.977818,
-        "lon": 64.994824
+        "type": "storage"
     },
     {
         "district": "None",
@@ -1328,20 +1194,7 @@
         "quantity": "None",
         "capacity": "None",
         "created_workplaces": "None",
-        "type": "storage",
-        "lat": 38.916437,
-        "lon": 65.86231
-    },
-    {
-        "district": "None",
-        "org_name": "None",
-        "name": "None",
-        "quantity": "None",
-        "capacity": "None",
-        "created_workplaces": "None",
-        "type": "storage",
-        "lat": 43.34386,
-        "lon": 63.789712
+        "type": "storage"
     },
     {
         "district": "None",
@@ -1359,9 +1212,52 @@
         "quantity": "None",
         "capacity": "None",
         "created_workplaces": "None",
-        "type": "storage",
-        "lat": 43.138328,
-        "lon": 62.859842
+        "type": "storage"
+    },
+    {
+        "district": "None",
+        "org_name": "None",
+        "name": "None",
+        "quantity": "None",
+        "capacity": "None",
+        "created_workplaces": "None",
+        "type": "storage"
+    },
+    {
+        "district": "None",
+        "org_name": "None",
+        "name": "None",
+        "quantity": "None",
+        "capacity": "None",
+        "created_workplaces": "None",
+        "type": "storage"
+    },
+    {
+        "district": "None",
+        "org_name": "None",
+        "name": "None",
+        "quantity": "None",
+        "capacity": "None",
+        "created_workplaces": "None",
+        "type": "storage"
+    },
+    {
+        "district": "None",
+        "org_name": "None",
+        "name": "None",
+        "quantity": "None",
+        "capacity": "None",
+        "created_workplaces": "None",
+        "type": "storage"
+    },
+    {
+        "district": "None",
+        "org_name": "None",
+        "name": "None",
+        "quantity": "None",
+        "capacity": "None",
+        "created_workplaces": "None",
+        "type": "storage"
     },
     {
         "district": "None",
@@ -1469,9 +1365,7 @@
         "quantity": 1.0,
         "capacity": 600.0,
         "created_workplaces": 3,
-        "type": "storage",
-        "lat": 42.500159,
-        "lon": 60.069744
+        "type": "storage"
     },
     {
         "district": "Зангиота тумани",
@@ -1489,8 +1383,6 @@
         "quantity": 1.0,
         "capacity": 200.0,
         "created_workplaces": 2,
-        "type": "storage",
-        "lat": 40.451606,
-        "lon": 65.816959
+        "type": "storage"
     }
 ]

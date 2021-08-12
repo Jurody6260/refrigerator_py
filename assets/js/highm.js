@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', function () {
 
-    const chart = Highcharts.getJSON('/assets/exampledata.json', function (data) {
+    const chart = Highcharts.getJSON('/assets/datanew.json', function (data) {
     Highcharts.mapChart('container2', {
         chart: {
             map: 'countries/uz/uz-all'
@@ -13,7 +13,7 @@ document.addEventListener('DOMContentLoaded', function () {
         },
         tooltip: {
             headerFormat: '',
-            pointFormat: '<b>{point.name}</b><br>Lat: {point.lat:.2f}, Lon: {point.lon:.2f}'
+            pointFormat: '<b>{point.name}</b><br> {point.district} {point.org_name} <br> Sona: {point.quantity}, Jami: {point.capacity}ton <br>Lat: {point.lat:.2f}, Lon: {point.lon:.2f}'
         },
         colorAxis: {
             min: 0,
