@@ -10,7 +10,7 @@ def load_user(user_id):
 @app.route("/")
 def index():
     print("loaded index")
-    return render_template("index.html", page='index')
+    return render_template("index.html", page='home')
 
 @app.route('/login')
 def login():
@@ -18,12 +18,12 @@ def login():
 
 @app.route('/reports')
 def reports():
-    return render_template('pages/reports.html')
+    return render_template('pages/reports.html', page='reports')
 
 @app.route('/orders')
 def orders():
-    return render_template('pages/orders.html')
+    return render_template('pages/orders.html', page='orders')
 
 @app.route('/help')
 def help():
-    return render_template('pages/help.html')
+    return render_template('pages/help.html', page='help')
